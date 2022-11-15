@@ -22,7 +22,7 @@
 # ------------------------------------------------------------------------------
 
 """
-Riepilogo dei cambiamenti apportati alla versione
+Riepilogo dei cambiamenti apportati alla versione  
 """
 
 import mx.DateTime as dt
