@@ -22,7 +22,7 @@
 # ------------------------------------------------------------------------------
 
 appcode = "x4ga"
-appdesc = "X4 Gestione Aziendale"
+appdesc = "X4 Gestione Aziendale" 
 
 from _branch import branch
 VERSION_BRANCH  = branch
